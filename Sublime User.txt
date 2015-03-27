@@ -1,0 +1,7 @@
+{
+	"color_scheme": "Packages/Colorsublime-Themes/Brogrammer.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
